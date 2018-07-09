@@ -1,0 +1,2 @@
+﻿APPDIR
+;Edit the above line to change the application directory, or enter APPDIR for the LCData database
